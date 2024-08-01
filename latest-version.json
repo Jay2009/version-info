@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.1.9",
+  "appStore": {
+    "ios": {
+      "en": "https://apps.apple.com/us/app/investory/id6502714902",
+      "ko": "https://apps.apple.com/kr/app/investory/id6502714902"
+    },
+    "android": {
+      "en": "https://play.google.com/store/apps/details?id=com.victoryinvestment.dev&hl=en",
+      "ko": "https://play.google.com/store/apps/details?id=com.victoryinvestment.dev&hl=ko"
+    }
+  }
+}
